@@ -6,3 +6,4 @@ this is sixth commit
 
 
 >>>>>>> d57e8a518a30f7ec8aa59cb0d0cac3fde9ffe943
+this is seventh commit
